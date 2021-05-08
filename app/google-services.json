@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078586127151",
+    "project_id": "dogimind",
+    "storage_bucket": "dogimind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078586127151:android:76831e14febc95af7a67da",
+        "android_client_info": {
+          "package_name": "com.example.digimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078586127151-tgf9cps6ocpne8fvjgjoap5ul3h3q9i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfpV74lbBhctgorXZmMnaTRSDY1Uu_aa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078586127151-tgf9cps6ocpne8fvjgjoap5ul3h3q9i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
